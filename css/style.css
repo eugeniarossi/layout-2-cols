@@ -6,3 +6,19 @@ RESET
     padding: 0;
     box-sizing: border-box;
 }
+
+/*-------------------
+DEBUG
+-------------------*/
+.debug header {
+    height: 130px;
+    background-color: #DAA51F;
+}
+
+
+/*-------------------
+MAIN
+-------------------*/
+.row {
+    display: flex;
+}
